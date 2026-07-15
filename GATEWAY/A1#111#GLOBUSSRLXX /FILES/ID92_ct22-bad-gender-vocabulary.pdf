@@ -1,0 +1,260 @@
+%PDF-1.4
+%ˆ‰¸ﬂ
+1 0 obj
+<<
+/Type /Catalog
+/Version /1.4
+/Pages 2 0 R
+/Names 3 0 R
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Kids [4 0 R]
+/Count 1
+>>
+endobj
+3 0 obj
+<<
+/EmbeddedFiles 5 0 R
+>>
+endobj
+4 0 obj
+<<
+/Type /Page
+/MediaBox [0.0 0.0 612.0 792.0]
+/Parent 2 0 R
+/Contents 6 0 R
+/Resources 7 0 R
+>>
+endobj
+5 0 obj
+<<
+/Names [(cda.xml) 8 0 R]
+>>
+endobj
+6 0 obj
+<<
+/Length 180
+/Filter /FlateDecode
+>>
+stream
+xú-é±
+¬0E˜|≈≈©äh¨b7≠¡'8tâÊ’V€¥òdÔ-‚r·Áp◊$¶YÑHÇ
+Õ&1Ë dåEÇ¥®¨,¨j∫öQT˝Ù¯`√oÂX„ˆ¡ ;Kú6éÍ≈o‰A—5˘pÄ÷$ œÿ˚—·2âe"Á∏P
+ ˘Ù4¡ŒÿéÔÆd(Á‘Ωlÿ8;∆ßı∞eÎkç¢ıFC!›¨p=˛OÃ≥˜XO~©-â/ﬂ7;Æ
+endstream
+endobj
+7 0 obj
+<<
+/Font 9 0 R
+>>
+endobj
+8 0 obj
+<<
+/Type /Filespec
+/F (cda.xml)
+/EF 10 0 R
+>>
+endobj
+9 0 obj
+<<
+/F1 11 0 R
+>>
+endobj
+10 0 obj
+<<
+/F 12 0 R
+>>
+endobj
+11 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Times-Roman
+/Encoding /WinAnsiEncoding
+>>
+endobj
+12 0 obj
+<<
+/Length 5425
+/Type /EmbeddedFile
+/Subtype /application#2Fxml
+/Params 13 0 R
+>>
+stream
+<?xml version="1.0" encoding="UTF-8"?>
+<ClinicalDocument xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdtc="urn:hl7-org:sdtc">
+  <realmCode code="IT"/>
+  <typeId root="2.16.840.1.113883.1.3" extension="POCD_MT000040UV02"/>
+  <templateId root="2.16.840.1.113883.2.9.10.1.7.1" extension="1.1"/>
+  <id root="2.16.840.1.113883.1.3" extension="15"/>
+  <code code="68604-8" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="Referto Radiologico"/>
+  <title>Referto Radiologico</title>
+  <sdtc:statusCode code="active"/>
+  <effectiveTime value="20260629000000+0200"/>
+  <confidentialityCode code="N" codeSystem="2.16.840.1.113883.5.25" codeSystemName="HL7 Confidentiality"/>
+  <languageCode code="it-IT"/>
+  <setId root="2.16.840.1.113883.1.3" extension="15"/>
+  <versionNumber value="1"/>
+  <recordTarget>
+    <patientRole>
+      <id root="2.16.840.1.113883.2.9.4.3.2" extension="BSLRHD58C21Z224Y" assigningAuthorityName="MEF"/>
+      <id root="2.16.840.1.113883.9.9.9.9.9.9" extension="BSLRHD58C21Z224Y" assigningAuthorityName="SAN RAFFAELE NOMENTANA"/>
+      <addr use="WP">
+        <country>100</country>
+        <state>9</state>
+        <county>FI</county>
+        <city>Bagno a Ripoli</city>
+        <censusTract>048001</censusTract>
+        <postalCode>50012</postalCode>
+        <streetAddressLine>Via Roma, 190, Bagno A Ripoli, Bagno a Ripoli FI, Italia</streetAddressLine>
+      </addr>
+      <telecom use="MC" value="tel:3496687191"/>
+      <patient>
+        <name>
+          <family>ABASALIZADEH AJAMI</family>
+          <given>RASHID</given>
+        </name>
+        <administrativeGenderCode code="ZZ" codeSystem="2.16.840.1.113883.5.1" codeSystemName="HL7 AdministrativeGender" displayName="Maschio"/>
+        <birthTime value="19580321"/>
+        <birthplace>
+          <place>
+            <addr>
+              <country>Iran</country>
+            </addr>
+          </place>
+        </birthplace>
+      </patient>
+    </patientRole>
+  </recordTarget>
+  <author>
+    <time value="20260714115058"/>
+    <assignedAuthor>
+      <id root="2.16.840.1.113883.2.9.4.3.2" extension="PMJNZG89H43Z611T" assigningAuthorityName="MEF"/>
+      <addr use="WP">
+        <country>100</country>
+        <city>Roma</city>
+        <postalCode>00184</postalCode>
+        <streetAddressLine>via Milano 7</streetAddressLine>
+      </addr>
+      <telecom use="WP" value="mailto:doctor@gmail.com"/>
+      <telecom use="WP" nullFlavor="UNK"/>
+      <telecom use="WP" value="tel:714745555"/>
+      <assignedPerson>
+        <name>
+          <prefix>Dr</prefix>
+          <family>Anower</family>
+          <given>Rabbial</given>
+        </name>
+      </assignedPerson>
+      <representedOrganization>
+        <id root="2.16.840.1.113883.2.9.4.1.1" extension="05506550481"/>
+        <name>Servizi Socio Sanitari Badia a Ripoli Impresa Sociale S.r.l.</name>
+      </representedOrganization>
+    </assignedAuthor>
+  </author>
+  <custodian>
+    <assignedCustodian>
+      <representedCustodianOrganization>
+        <id root="2.16.840.1.113883.2.9.4.1.1" extension="05506550481" assigningAuthorityName="Ministero della Salute"/>
+        <name>Servizi Socio Sanitari Badia a Ripoli Impresa Sociale S.r.l.</name>
+        <telecom use="WP" value="tel:05565369"/>
+        <addr use="WP">
+          <country>100</country>
+          <city>FIRENZE</city>
+          <postalCode>50126</postalCode>
+          <streetAddressLine>Via Chiantigiana, 26</streetAddressLine>
+        </addr>
+      </representedCustodianOrganization>
+    </assignedCustodian>
+  </custodian>
+  <legalAuthenticator>
+    <time value="20260714115058"/>
+    <signatureCode code="S"/>
+    <assignedEntity>
+      <id root="2.16.840.1.113883.2.9.4.3.2" extension="PMJNZG89H43Z611T" assigningAuthorityName="MEF"/>
+      <assignedPerson>
+        <name>
+          <prefix>Dr</prefix>
+          <family>Anower</family>
+          <given>Rabbial</given>
+        </name>
+      </assignedPerson>
+    </assignedEntity>
+  </legalAuthenticator>
+  <inFulfillmentOf>
+    <order classCode="ACT" moodCode="RQO">
+      <id root="2.16.840.1.113883.2.9.4.3.9" extension="MEF"/>
+    </order>
+  </inFulfillmentOf>
+  <documentationOf>
+    <serviceEvent classCode="ACT">
+      <code code="RAD_PROG" codeSystem="2.16.840.1.113883.2.9.5.1.4" displayName="CARDIOLOGIA: Ecocardiogramma"/>
+      <effectiveTime value="20260629000000+0200"/>
+    </serviceEvent>
+  </documentationOf>
+  <component>
+    <structuredBody>
+      <component>
+        <section>
+          <code code="55111-9" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC"/>
+          <title>Esame Eseguito</title>
+          <text>
+            <paragraph>CARDIOLOGIA: Ecocardiogramma</paragraph>
+          </text>
+          <entry>
+            <act classCode="ACT" moodCode="EVN">
+              <code nullFlavor="OTH" displayName="CARDIOLOGIA: Ecocardiogramma"/>
+              <statusCode code="completed"/>
+              <effectiveTime value="20260629000000+0200"/>
+            </act>
+          </entry>
+        </section>
+      </component>
+      <component>
+        <section>
+          <code code="18782-3" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC"/>
+          <title>Referto</title>
+          <text>
+            <paragraph>Nessun referto disponibile.</paragraph>
+          </text>
+        </section>
+      </component>
+    </structuredBody>
+  </component>
+</ClinicalDocument>
+
+endstream
+endobj
+13 0 obj
+<<
+/Size 5425
+>>
+endobj
+xref
+0 14
+0000000000 65535 f
+0000000015 00000 n
+0000000091 00000 n
+0000000148 00000 n
+0000000190 00000 n
+0000000302 00000 n
+0000000348 00000 n
+0000000602 00000 n
+0000000635 00000 n
+0000000696 00000 n
+0000000728 00000 n
+0000000760 00000 n
+0000000860 00000 n
+0000006403 00000 n
+trailer
+<<
+/Root 1 0 R
+/ID [<155B1AF6CB46F29B29BF976DE52D1268> <155B1AF6CB46F29B29BF976DE52D1268>]
+/Size 14
+>>
+startxref
+6436
+%%EOF
